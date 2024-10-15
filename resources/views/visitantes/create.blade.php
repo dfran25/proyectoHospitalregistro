@@ -1,7 +1,7 @@
-<!DOCTYPE html>
-<html lang="es">
+ <!DOCTYPE html>
+ <html lang="es">
     @extends('layouts.app')
-
+    
     @section('title', 'Registro de Visitantes')
     
     @section('content')
